@@ -50,13 +50,20 @@ Each project is tagged with the false-alarm control method it relies on.
 **[Lunar Elemental Mapping (ISRO)](https://github.com/Y-ash-Y/ISRO_LUNAR_MISSION)** · *Inter-IIT Tech Meet 13.0*
 An end-to-end XRF pipeline over five years of Chandrayaan-2 CLASS data, producing kilometer-scale elemental maps with per-pixel uncertainty. Placed **6th of 23 IITs**.
 
+**[Analyzing Demand Forecasting & Business Performance](https://github.com/Y-ash-Y/Analyzing-Business-Performance)** · *IITK Consulting*
+*Chronological holdout.* Cleaned and forecast 2+ years of multi-retailer weekly sales with leakage-safe imputation, benchmarked five models, and converted error bands into stock-out-aware inventory recommendations.
+`Prophet best — MAPE 4.80%` · `5 models compared`
+
 ---
 
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-1B4F8A?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1B4F8A?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-1B4F8A?style=flat-square&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1B4F8A?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1B4F8A?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1B4F8A?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1B4F8A?style=flat-square&logo=opencv&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1B4F8A?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1B4F8A?style=flat-square&logo=postgresql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-1B4F8A?style=flat-square&logo=solidity&logoColor=white)
