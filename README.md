@@ -8,10 +8,9 @@ across security, vision, finance, and quantum channels.
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://y-ash-y.github.io"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yash-yadav-068241263"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:yashyadav1301@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://YOUR-RESUME-URL"><b>Résumé</b></a>
 </p>
 
 ---
@@ -28,30 +27,28 @@ I care about honest evaluation. Most of my projects report what *didn't* work an
 
 Each project is tagged with the false-alarm control method it relies on.
 
-**[LABAD — Insider-Threat UEBA & Behavioral Anomaly Detection](https://github.com/Y-ash-Y)**
+**[LABAD — Insider-Threat UEBA & Behavioral Anomaly Detection](https://github.com/Y-ash-Y/LABAD)**
 *Neyman–Pearson @ 1% FPR.* A BiLSTM autoencoder on CERT r4.2 plus a from-scratch Bayesian Online Changepoint Detector that localizes *when* a compromise began, with RAG threat reports over 714 MITRE ATT&CK techniques via an air-gapped LLM.
 `AUC 0.87` · `100% Precision@10` · `onset to a median of 3 days`
 
-**[PMSA — Calibrated, Explainable AI-Image Detector](https://github.com/Y-ash-Y)**
+**[PMSA — Calibrated, Explainable AI-Image Detector](https://github.com/Y-ash-Y/AI-Detected-)**
 *Split-conformal Neyman–Pearson.* A frozen SigLIP backbone fused with a hand-crafted forensic stream, with a finite-sample guarantee on the false-alarm rate. Honest in-the-wild evaluation and few-shot adaptation to brand-new generators.
 `0.90 AUC (Chameleon)` · `83–91% detection @ 1% FPR`
 
-**[Statistical Arbitrage — Causal, FDR-Controlled Pairs Trading](https://github.com/Y-ash-Y)**
+**[Statistical Arbitrage — Causal, FDR-Controlled Pairs Trading](https://github.com/Y-ash-Y/StatArb)**
 *Benjamini–Hochberg FDR.* Took a backtest reporting Sharpe 4.40, proved it was fiction, diagnosed why (universal decointegration), and located the real binding constraint — execution cost.
 `242 pairs screened` · `~5 bps/leg break-even`
 
-**[VoteChain — Decentralized Voting on Ethereum](https://github.com/Y-ash-Y)**
+**[VoteChain — Decentralized Voting on Ethereum](https://github.com/Y-ash-Y/DecentralizedVotingSystem)**
 *On-chain commit–reveal.* A full-stack Solidity dApp with role-based access control and a genuine on-chain privacy scheme, live on Sepolia. Includes a real repository incident-response on a leaked deployer key.
 `48-case Hardhat suite` · `live on Sepolia`
 
-**[BB84 QKD — Sub-Threshold Eavesdropping Detection](https://github.com/Y-ash-Y)** · *Research*
+**[BB84 QKD — Sub-Threshold Eavesdropping Detection](https://github.com/Y-ash-Y/Quantum_research)** · *Research*
 *Decoy-ratio coverage tests.* A theory-validated simulator showing the standard QBER check is blind to attacks engineered below it — and that cheap ML on the right channel statistics is not.
 `87% vs 0.8% detection` · `PNS: AUC 1.00 vs 0.51`
 
-**[Lunar Elemental Mapping (ISRO)](https://github.com/Y-ash-Y)** · *Inter-IIT Tech Meet 13.0*
+**[Lunar Elemental Mapping (ISRO)](https://github.com/Y-ash-Y/ISRO_LUNAR_MISSION)** · *Inter-IIT Tech Meet 13.0*
 An end-to-end XRF pipeline over five years of Chandrayaan-2 CLASS data, producing kilometer-scale elemental maps with per-pixel uncertainty. Placed **6th of 23 IITs**.
-
-> Replace each `github.com/Y-ash-Y` above with the project's own repository link.
 
 ---
 
@@ -71,18 +68,11 @@ An end-to-end XRF pipeline over five years of Chandrayaan-2 CLASS data, producin
 
 ---
 
-### Currently
-
-- Building an attack harness for the **OpenAI / IEEE AI Agent Security** competition (red-teaming tool-using LLM agents).
-- Deep-diving operating-systems internals and large-scale system design.
-
----
-
 ### Connect
 
 - **Email** — yashyadav1301@gmail.com
 - **LinkedIn** — [linkedin.com/in/yash-yadav-068241263](https://www.linkedin.com/in/yash-yadav-068241263)
-- **Portfolio** — _add your deployed site URL_
+- **Portfolio** — [My Profile](https://y-ash-y.github.io)
 
 <!--
 Optional: a GitHub stats card. Uncomment once you have a few public repos.
