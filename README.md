@@ -10,7 +10,7 @@ across security, vision, finance, and quantum channels.
 <p align="center">
   <a href="https://y-ash-y.github.io"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yash-yadav-068241263"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:yashyadav1301@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="mailto:yashyadav1301@gmail.com"><b>Email</b></a> &nbsp;
 </p>
 
 ---
